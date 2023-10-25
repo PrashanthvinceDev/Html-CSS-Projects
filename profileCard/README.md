@@ -8,18 +8,12 @@ A simple and stylish profile card created using HTML and CSS. This project demon
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## Demo
-
-![Demo Gif](demo.gif)
-
-You can view a live demo of the profile card [here](https://yourusername.github.io/profile-card/).
 
 ## Features
 
