@@ -17,7 +17,7 @@ clone the repository to your local machine.
 <br> 
 
 
-$ git clone https://github.com/PrashanthvinceDev/project.git
+$ git clone https://github.com/PrashanthvinceDev/Html-CSS-Projects.git
 
 ## Built With
 - HTML
