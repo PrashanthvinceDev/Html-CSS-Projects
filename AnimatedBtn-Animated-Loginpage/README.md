@@ -8,7 +8,7 @@ These instructions will help you set up and run the project on your local machin
 - Code editor (e.g., Visual Studio Code, Sublime Text)
 ## Installation
 Clone the repository to your local machine.
-$ git clone https://github.com/PrashanthvinceDev/Html-CSS-Projects/AnimatedBtn-Animated-Loginpage.git
+$ git clone https://github.com/PrashanthvinceDev/Html-CSS-Projects/.git
 
 Open the 'index.html' file in your preferred browser to view the login page.
 ## Features
